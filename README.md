@@ -1,4 +1,4 @@
 # JavaScript
-<h1>[Clone Coding]</h1>
+[Clone Coding]
 Reference
 https://nomadcoders.co/javascript-for-beginners/lobby
